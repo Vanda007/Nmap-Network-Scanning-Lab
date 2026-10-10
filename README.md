@@ -17,10 +17,9 @@ Di project ini saya belajar memakai Nmap untuk mencari perangkat yang aktif dan 
   
       1. Install Nmap dari website resminya https://nmap.org/
       2. Buka Command Promt atau PowerShell dengan klik kanan lalu pilih Run as administrator
-      3. Cek instalasi dan IP laptop
-     ```bash
-       nmap --version
-       ipconfig
-     ```
+      3. Cek instalasi dan IP laptop :
+         nmap --version
+         ipconfig
+    
      
 - Kali Linux (VM)
