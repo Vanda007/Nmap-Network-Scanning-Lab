@@ -6,4 +6,8 @@ Di project ini saya belajar memakai Nmap untuk mencari perangkat yang aktif dan 
 ## 🖥️ Environment
 |  Mesin        | Sistem Operasi | IP Address   | Peran                    |
 |---------------|----------------|--------------|--------------------------|
-|Laptop (host)  | Windows 11     |19...         |Menjalankan Nmap (Scanner)|
+|Laptop (host)  | Windows 11     |10.10.10.1    |Menjalankan Nmap (Scanner)|
+|VirtualBox     | Kali Linux     |10.10.10.16   |Target                    |
+
+- Jaringan VirtualBox : Host-Only
+- Tool : Nmap versi 7.991
