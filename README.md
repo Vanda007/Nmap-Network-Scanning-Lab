@@ -15,5 +15,11 @@ Di project ini saya belajar memakai Nmap untuk mencari perangkat yang aktif dan 
 ## ⚙️ Persiapan
 - Windows 11
   1. Install Nmap dari website resminya https://nmap.org/
-  2. 
+  2. Buka Command Promt atau PowerShell dengan klik kanan lalu pilih Run as administrator
+  3. Cek instalasi dan IP laptop
+     #### Dengan menjalankan command :
+     ```bash
+     nmap --version
+     ipconfig
+     ```
 - Kali Linux (VM)
