@@ -11,3 +11,9 @@ Di project ini saya belajar memakai Nmap untuk mencari perangkat yang aktif dan 
 
 - Jaringan VirtualBox : Host-Only
 - Tool : Nmap versi 7.991
+
+## ⚙️ Persiapan
+- Windows 11
+  1. Install Nmap dari website resminya https://nmap.org/
+  2. 
+- Kali Linux (VM)
