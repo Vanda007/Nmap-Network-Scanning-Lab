@@ -43,7 +43,7 @@ ping 10.10.10.16
 
 ## 🛠️ Praktek
 ### 1. Cari Perangkat Aktif
-Tujuan : mencari tahu perangkat apa saja yang aktif di jaringan lab
+Tujuan : mendeteksi apakah perangkat target aktif dan dapat dijangkau di jaringan lokal menggunakan Nmap tanpa melakukan pemindaian port.
 
 Command :
 ```bash
