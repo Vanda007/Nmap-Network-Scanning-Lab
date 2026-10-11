@@ -1,4 +1,4 @@
-# Project Nmap : Network Discovery & Port Scanning
+# 📍Project Nmap : Network Discovery & Port Scanning
 
 ## 📌 Deskripsi
 Di project ini saya belajar memakai Nmap untuk mencari perangkat yang aktif dan layanan apa yang berjalan di dalamnya.Hasilnya saya dokumentasikan berdasarkan temuan dan rekomendasi mitigasinya.
@@ -41,7 +41,7 @@ ping 10.10.10.16
 
 ---
 
-## 🛠️Praktek
+## 🛠️ Praktek
 ### 1. Cari Perangkat Aktif
 Tujuan : mencari tahu perangkat apa saja yang aktif di jaringan lab
 
