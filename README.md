@@ -1,7 +1,7 @@
 # 📍Project Nmap : Network Discovery & Port Scanning
 
 ## 📌 Deskripsi
-Di project ini saya belajar memakai Nmap untuk mencari perangkat yang aktif dan layanan apa yang berjalan di dalamnya.Hasilnya saya dokumentasikan berdasarkan temuan dan rekomendasi mitigasinya.
+Project ini berisi catatan latihan saya dalam menggunakan Nmap untuk melakukan network discovery dan port scanning. Di sini, saya mensimulasikan pengujian dari mesin host Windwows 11 dan target Kali Linux di virtualbox untuk mencari perangkat yang aktif, melihat port yang terbuka, serta mengetahui layanan apa saja yang berjalan di dalamanya.
 
 ---
 
