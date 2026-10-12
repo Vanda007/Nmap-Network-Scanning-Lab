@@ -54,5 +54,19 @@ Hasil :
 (gambar ss)
 
 Penjelasan :
-- -sn artinya untuk mengecek perangkat yang aktif, tanpa mengecek port
-- 
+- '-sn' artinya untuk mengecek perangkat yang aktif, tanpa mengecek port
+- Ditemukan 3 perangkat aktif : 10.10.10.1 (Windows), 10.10.10.2 dan 10.10.10.16 (VM Virtualbox)
+
+### 2. Cek Port Terbuka
+Tujuan : melihat port mana saja yang terbuka di target
+
+Command :
+```bash
+nmap 10.10.10.16
+```
+
+Hasil :
+(gambar)
+
+Penjelasan :
+
