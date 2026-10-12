@@ -68,5 +68,17 @@ nmap 10.10.10.16
 Hasil :
 (gambar)
 
-Penjelasan :
+Penejelasan :
+- Status open artinya ada layanan yang sedang aktif di port itu
+- Port yang open : Port 22 untuk SSH dan Port 80 untuk http/web
+
+### 3. Cek Layanan dan Versinya
+Tujuan : mengetahui layanan apa dan versi berapa yang jalan di tiap port.
+
+Command :
+```bash
+nmap -sV 10.10.10.16
+```
+
+
 
