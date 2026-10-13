@@ -73,12 +73,20 @@ Penejelasan :
 - Port yang open : Port 22 untuk SSH dan Port 80 untuk http/web
 
 ### 3. Cek Layanan dan Versinya
-Tujuan : mengetahui layanan apa dan versi berapa yang jalan di tiap port.
+Tujuan : mengidentifikasi jenis layanan dan versi software yang berjalan pada port terbuka.
 
 Command :
 ```bash
 nmap -sV 10.10.10.16
 ```
 
+Hasil :
+(gambar)
 
+Penjelasan :
+- 'sV' mecoba mendeteksi versi layanan yang berjalan pada port terbuka
+- Port 22 : OpenSSH 10.4p1 Debian 5
+- Port 80 : Apache httpd 2.4.68 Debian
+- OS : Linux
+  
 
