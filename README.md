@@ -5,7 +5,7 @@ Project ini berisi catatan latihan saya dalam menggunakan Nmap untuk melakukan n
 
 ---
 
-## 🖥️ Environment
+## 🖥️ Lab Environment
 |  Mesin        | Sistem Operasi | IP Address   | Peran                    |
 |---------------|----------------|--------------|--------------------------|
 |Laptop (host)  | Windows 11     |10.10.10.1    |Menjalankan Nmap (Scanner)|
@@ -89,4 +89,16 @@ Penjelasan :
 - Port 80 : Apache httpd 2.4.68 Debian
 - OS : Linux
   
+### 4. Identifikasi Sistem Operasi
+Tujuan : mendeteksi jenis dan versi sistem operasi yang dipakai target
 
+Command :
+```bash
+nmap -O 10.10.10.16
+```
+
+Hasil :
+
+Penjelasan :
+- Perintah ini harus dijalankan lewat CMD/PowerShell as administrator
+- 
